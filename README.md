@@ -1,2 +1,2 @@
 # NatureOfCode
-My code from reading nature of code
+My code from reading [Nature of Code](http://natureofcode.com/)
